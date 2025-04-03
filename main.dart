@@ -1,5 +1,5 @@
 void main() {
-  double rmv = 1025.0; // remuneración mínima vital
+  double rmv = 1030.0; // remuneración mínima vital
   // Definición de trabajadores
 
   var admin = Administrativo(
